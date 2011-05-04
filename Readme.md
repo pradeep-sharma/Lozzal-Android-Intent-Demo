@@ -1,4 +1,4 @@
-#Lozzal Intetn Demo
+#Lozzal Intent Demo
 
 See [developer.lozzal.com](http://developer.lozzal.com) for more information.
 
