@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="haslozzal">This app demonstrates the intent functionality built into the Lozzal app including both generic and targeted intents.</string>
+    <string name="nolozzal">This app is intended to demonstrate the intent functionality built into the Lozzal app. Note: Lozzal version 2.0.4 or higher is required.</string>
+    <string name="app_name">Lozzal 2.0.4+ Intent Tests</string>
+</resources>
